@@ -17,11 +17,22 @@ The home page will introduce who I am, with a picture and a brief bio. I plan to
 ## Blog Page
 The blog page will display my key works and blog posts, where I'll share my thoughts and progress. I aim to find a plugin or library that will help manage the blogging functionality.
 
+At the start I will make this a simple process, however, I intend crete a full stack MERN website to store the blog data. Create an admin function for the backend where the blog post can be made and added
+
 ## Contact me page 
 A simple page with links to my LinkedIn, Instagram, and GitHub profiles. I would like to include a "Leave a Message" section that sends emails directly to me, although I’ll explore the feasibility of this feature as I develop the site.
 
 ## Project Management
 I will manage this project using a Trello board with the Agile methodology and story points to track tasks and progress.
+
+
+## Features
+- light and dark mode
+- react github post
+- time line
+- icon nav bar
+- blog post - pop out? 
+
 
 
 # Getting Started with Create React App
